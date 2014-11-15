@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For TTL
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+TTL	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin		KEYWORD2
+read	KEYWORD2
+sendMemory	KEYWORD2
+sendUp	KEYWORD2
+sendDown	KEYWORD2
+sendGo	KEYWORD2
+attachControlChange	KEYWORD2
+attachProgramChange	KEYWORD2
+
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+NoteOff	LITERAL1
+
